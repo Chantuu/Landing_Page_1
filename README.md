@@ -9,7 +9,7 @@ Thank you for viewing my project and please check out my other projects on my [G
 portfolio.
 
 ---
-permalink: /index.html
+permalink: /photosite.html
 ---
 
 Have a nice day!
