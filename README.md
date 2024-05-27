@@ -8,4 +8,8 @@ All photos are licensed under [Creative Commons 2.0](https://creativecommons.org
 Thank you for viewing my project and please check out my other projects on my [Github](https://github.com/Chantuu) 
 portfolio.
 
+---
+permalink: /index.html
+---
+
 Have a nice day!
